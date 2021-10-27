@@ -1,0 +1,113 @@
+level0,level1,totalArticles,label
+A,A01,336,Body Regions
+A,A02,1116,Musculoskeletal System
+A,A03,2519,Digestive System
+A,A04,279,Respiratory System
+A,A05,881,Urogenital System
+A,A06,285,Endocrine System
+A,A07,163,Cardiovascular System
+A,A08,540,Nervous System
+A,A09,71,Sense Organs
+A,A10,1984,Tissues
+A,A11,4691,Cells
+A,A12,4790,Fluids and Secretions
+A,A13,705,Animal Structures
+A,A14,217,Stomatognathic System
+A,A15,1448,Hemic and Immune Systems
+A,A16,592,Embryonic Structures
+A,A17,720,Integumentary System
+A,A18,3770,Plant Structures
+A,A19,354,Fungal Structures
+A,A20,566,Bacterial Structures
+A,A21,23,Viral Structures
+B,B01,52060,Eukaryota
+B,B02,36,Archaea
+B,B03,62664,Bacteria
+B,B04,3025,Viruses
+B,B05,2055,Organism Forms
+C,C01,15672,Infections
+C,C04,1801,Neoplasms
+C,C05,252,Musculoskeletal Diseases
+C,C06,4205,Digestive System Diseases
+C,C07,196,Stomatognathic Diseases
+C,C08,719,Respiratory Tract Diseases
+C,C09,112,Otorhinolaryngologic Diseases
+C,C10,3078,Nervous System Diseases
+C,C11,100,Eye Diseases
+C,C12,798,Male Urogenital Diseases
+C,C13,1284,Female Urogenital Diseases and Pregnancy Complications
+C,C14,431,Cardiovascular Diseases
+C,C15,636,Hemic and Lymphatic Diseases
+C,C16,388,"Congenital, Hereditary, and Neonatal Diseases and Abnormalities"
+C,C17,535,Skin and Connective Tissue Diseases
+C,C18,671,Nutritional and Metabolic Diseases
+C,C19,259,Endocrine System Diseases
+C,C20,776,Immune System Diseases
+C,C21,5,Disorders of Environmental Origin
+C,C22,5046,Animal Diseases
+C,C23,3894,"Pathological Conditions, Signs and Symptoms"
+C,C24,254,Occupational Diseases
+C,C25,4039,Chemically-Induced Disorders
+C,C26,237,Wounds and Injuries
+D,D01,52095,Inorganic Chemicals
+D,D02,38907,Organic Chemicals
+D,D03,15311,Heterocyclic Compounds
+D,D04,4252,Polycyclic Compounds
+D,D05,2787,Macromolecular Substances
+D,D06,657,"Hormones, Hormone Substitutes, and Hormone Antagonists"
+D,D08,6809,Enzymes and Coenzymes
+D,D09,5591,Carbohydrates
+D,D10,6903,Lipids
+D,D12,20181,"Amino Acids, Peptides, and Proteins"
+D,D13,5794,"Nucleic Acids, Nucleotides, and Nucleosides"
+D,D20,6538,Complex Mixtures
+D,D23,12355,Biological Factors
+D,D25,2683,Biomedical and Dental Materials
+D,D26,2212,Pharmaceutical Preparations
+D,D27,26708,Chemical Actions and Uses
+E,E01,13545,Diagnosis
+E,E02,3554,Therapeutics
+E,E03,3,Anesthesia and Analgesia
+E,E04,359,"Surgical Procedures, Operative"
+E,E05,81670,Investigative Techniques
+E,E06,33,Dentistry
+E,E07,2602,Equipment and Supplies
+F,F01,3538,Behavior and Behavior Mechanisms
+F,F02,1528,Psychological Phenomena
+F,F03,328,Mental Disorders
+F,F04,119,Behavioral Disciplines and Activities
+G,G01,16082,Physical Phenomena
+G,G02,12420,Chemical Phenomena
+G,G03,5228,Metabolism
+G,G04,1396,Cell Physiological Phenomena
+G,G05,11946,Genetic Phenomena
+G,G06,7581,Microbiological Phenomena
+G,G07,50435,Physiological Phenomena
+G,G08,1871,Reproductive and Urinary Physiological Phenomena
+G,G09,281,Circulatory and Respiratory Physiological Phenomena
+G,G10,843,Digestive System and Oral Physiological Phenomena
+G,G11,1107,Musculoskeletal and Neural Physiological Phenomena
+G,G12,839,Immune System Phenomena
+G,G13,30,Integumentary System Physiological Phenomena
+G,G14,18,Ocular Physiological Phenomena
+G,G15,499,Plant Physiological Phenomena
+G,G16,15748,Biological Phenomena
+G,G17,2400,Mathematical Concepts
+H,H01,9590,Natural Science Disciplines
+H,H02,3162,Health Occupations
+I,I01,7200,Social Sciences
+I,I02,954,Education
+I,I03,558,Human Activities
+J,J01,31536,"Technology, Industry, and Agriculture"
+J,J02,35432,Food and Beverages
+J,J03,2401,Non-Medical Public and Private Facilities
+K,K01,1079,Humanities
+L,L01,6161,Information Science
+M,M01,9822,Persons
+N,N01,4916,Population Characteristics
+N,N02,2456,"Health Care Facilities, Manpower, and Services"
+N,N03,4912,Health Care Economics and Organizations
+N,N04,3619,Health Services Administration
+N,N05,20519,"Health Care Quality, Access, and Evaluation"
+N,N06,75386,Environment and Public Health
+Z,Z01,30474,Geographic Locations
