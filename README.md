@@ -7,3 +7,6 @@ The subdirectories contain detailed descriptions of their contents in the `READM
 - `classification_results` – classification results for a sample batch of articles from PubMed and EFSA corpora.
 - `dataset_analysis` – analysis results for the publication corpora.
 - `extra` – algorithm pseudocodes and additional illustrations.
+
+## Authors
+Piotr Sowiński, Katarzyna Wasielewska-Michniewska, Maria Ganzha, Marcin Paprzycki
