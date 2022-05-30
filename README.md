@@ -1,6 +1,6 @@
 ## Data and extra materials for the food safety publications classifier
 
-Supplementary material for the article titled "**[Topical Classification of Food Safety Publications with a Knowledge Base](https://arxiv.org/abs/2201.00374)**".
+Supplementary material for the article titled "**[Topical Classification of Food Safety Publications with a Knowledge Base](https://arxiv.org/abs/2201.00374)**" (in print, to be published in [Proceedings of ICSTACE 2021](https://link.springer.com/book/9789811943638)).
 
 The subdirectories contain detailed descriptions of their contents in the `README.md` files.
 
